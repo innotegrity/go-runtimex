@@ -11,7 +11,7 @@
     <img src="https://goreportcard.com/badge/go.innotegrity.dev/runtimex?style=for-the-badge" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/stability-stable-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/stability-alpha-pink?style=for-the-badge" />
   </a>
   <a href="https://en.wikipedia.org/wiki/MIT_License" target="_blank">
     <img src="https://img.shields.io/badge/license-MIT-maroon?style=for-the-badge" />
